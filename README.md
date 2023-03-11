@@ -2,12 +2,11 @@
 
 ![Grafik](assets/netflix.png)
 
-
 ## Film sayısı: 6131
 
 ## Dizi sayısı: 2676
 
-En çok film çekilen 10 ülke:
+### En çok film çekilen 10 ülke:
 
 United States          2058
 
