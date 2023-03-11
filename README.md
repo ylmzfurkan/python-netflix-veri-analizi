@@ -1,5 +1,8 @@
 # Python, Pandas ile Netflix Veri Analizi
 
+![Grafik](assets/netflix.png)
+
+
 Film sayısı: 6131
 
 Dizi sayısı: 2676
@@ -25,3 +28,4 @@ Nigeria                  86
 Indonesia                77
 
 Turkey                   76
+
